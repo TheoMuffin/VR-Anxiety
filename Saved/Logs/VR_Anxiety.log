@@ -7519,3 +7519,151 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2018.11.17-21.10.28:428][302]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2018.11.17-21.10.28:428][302]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Developers/Theo/Collections/' because it could not be accessed. Aborting watch request...
 [2018.11.17-21.10.28:765][303]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2018.11.17-21.24.50:988][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.24.52:790][586]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1055' invalid (332 verts, 0 indices).
+[2018.11.17-21.24.52:790][586]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1055.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.03:782][107]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1063' invalid (332 verts, 0 indices).
+[2018.11.17-21.25.03:782][107]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1063.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.05:080][172]Cmd: TRANSACTION UNDO
+[2018.11.17-21.25.05:080][172]LogEditorTransaction: Undo Move Actors
+[2018.11.17-21.25.05:095][172]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1055' invalid (332 verts, 0 indices).
+[2018.11.17-21.25.05:095][172]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1055.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.12:619][550]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1071' invalid (372 verts, 0 indices).
+[2018.11.17-21.25.12:619][550]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1071.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.14:094][628]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1079' invalid (352 verts, 0 indices).
+[2018.11.17-21.25.14:094][628]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1079.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.16:130][742]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1087' invalid (352 verts, 0 indices).
+[2018.11.17-21.25.16:130][742]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1087.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.18:376][864]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1095' invalid (332 verts, 0 indices).
+[2018.11.17-21.25.18:376][864]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1095.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.20:033][953]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1103' invalid (332 verts, 0 indices).
+[2018.11.17-21.25.20:033][953]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1103.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.21:746][ 46]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1111' invalid (364 verts, 0 indices).
+[2018.11.17-21.25.21:746][ 46]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1111.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.32:161][572]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1119' invalid (332 verts, 0 indices).
+[2018.11.17-21.25.32:161][572]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1119.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.36:944][835]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1127' invalid (324 verts, 0 indices).
+[2018.11.17-21.25.36:944][835]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1127.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.39:357][944]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1135' invalid (324 verts, 0 indices).
+[2018.11.17-21.25.39:357][944]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1135.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.47:216][335]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1143' invalid (324 verts, 0 indices).
+[2018.11.17-21.25.47:216][335]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1143.BodySetup_0 when we are unable to.
+[2018.11.17-21.25.50:584][521]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1151' invalid (324 verts, 0 indices).
+[2018.11.17-21.25.50:584][521]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1151.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.06:526][306]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1159' invalid (352 verts, 0 indices).
+[2018.11.17-21.26.06:526][306]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1159.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.08:122][392]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1167' invalid (352 verts, 0 indices).
+[2018.11.17-21.26.08:122][392]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1167.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.09:296][455]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1175' invalid (324 verts, 0 indices).
+[2018.11.17-21.26.09:296][455]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1175.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.10:376][512]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1183' invalid (352 verts, 0 indices).
+[2018.11.17-21.26.10:376][512]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1183.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.32:884][720]Cmd: EDIT COPY
+[2018.11.17-21.26.33:342][745]Cmd: EDIT PASTE
+[2018.11.17-21.26.33:363][745]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1191' invalid (352 verts, 0 indices).
+[2018.11.17-21.26.33:363][745]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1191.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.33:385][745]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1199' invalid (352 verts, 0 indices).
+[2018.11.17-21.26.33:385][745]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1199.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.35:363][845]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1207' invalid (408 verts, 0 indices).
+[2018.11.17-21.26.35:363][845]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1207.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.38:726][ 13]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1215' invalid (448 verts, 0 indices).
+[2018.11.17-21.26.38:726][ 13]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1215.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.40:399][100]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1223' invalid (468 verts, 0 indices).
+[2018.11.17-21.26.40:399][100]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1223.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.45:075][320]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1231' invalid (456 verts, 0 indices).
+[2018.11.17-21.26.45:075][320]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1231.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.51:788][643]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1239' invalid (424 verts, 0 indices).
+[2018.11.17-21.26.51:788][643]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1239.BodySetup_0 when we are unable to.
+[2018.11.17-21.26.56:210][862]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1247' invalid (424 verts, 0 indices).
+[2018.11.17-21.26.56:210][862]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1247.BodySetup_0 when we are unable to.
+[2018.11.17-21.27.01:179][105]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1255' invalid (424 verts, 0 indices).
+[2018.11.17-21.27.01:179][105]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1255.BodySetup_0 when we are unable to.
+[2018.11.17-21.27.02:941][198]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1263' invalid (424 verts, 0 indices).
+[2018.11.17-21.27.02:941][198]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1263.BodySetup_0 when we are unable to.
+[2018.11.17-21.27.20:224][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.27.22:448][118]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1271' invalid (476 verts, 0 indices).
+[2018.11.17-21.27.22:448][118]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1271.BodySetup_0 when we are unable to.
+[2018.11.17-21.27.34:891][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.27.40:958][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.27.48:803][373]LogEditorViewport: Clicking Background
+[2018.11.17-21.27.51:647][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-21.27.56:647][761]LogMaterial: Display: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2018.11.17-21.27.56:704][761]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.17-21.27.56:704][761]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.17-21.27.56:704][761]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.17-21.27.57:653][802]LogEditorViewport: Clicking Background
+[2018.11.17-21.28.09:126][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.28.35:962][437]LogEditorViewport: Clicking Background
+[2018.11.17-21.28.38:369][538]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.17-21.28.40:774][645]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2018.11.17-21.28.43:281][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.28.51:496][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.29.03:723][613]Cmd: DELETE
+[2018.11.17-21.29.03:723][613]Cmd: ACTOR DELETE
+[2018.11.17-21.29.03:741][613]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.11.17-21.29.03:780][613]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2018.11.17-21.29.05:123][692]Cmd: TRANSACTION UNDO
+[2018.11.17-21.29.05:123][692]LogEditorTransaction: Undo Delete Actors
+[2018.11.17-21.29.05:127][692]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1271' invalid (476 verts, 0 indices).
+[2018.11.17-21.29.05:127][692]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.ModelComponent_1271.BodySetup_0 when we are unable to.
+[2018.11.17-21.29.13:503][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.29.32:480][199]Cmd: EDIT COPY
+[2018.11.17-21.29.33:731][272]Cmd: EDIT PASTE
+[2018.11.17-21.29.36:488][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.30.00:754][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GenericHMD2)
+[2018.11.17-21.30.02:550][691]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Violin)
+[2018.11.17-21.30.05:179][834]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (MannequinHand_Right)
+[2018.11.17-21.30.05:810][862]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (MannequinHand_Right2)
+[2018.11.17-21.30.20:094][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-21.30.20:333][551]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/StartupMapE69E0E83400DB28ED16A9BBD996D7A25.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2018.11.17-21.30.20:417][551]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/StartupMap_BuiltData5CF6CD454BC105473D8EB7AD3E430620.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset'
+[2018.11.17-21.30.25:907][812]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.11.17-21.30.44:022][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.30.56:417][364]LogEditorViewport: Clicking Background
+[2018.11.17-21.31.06:188][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.31.09:250][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.31.12:530][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.31.15:786][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.31.18:698][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.31.22:458][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-21.31.33:405][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.17-21.31.33:592][287]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/StartupMapFA735E1D4260F706BEC52CAED55462EE.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2018.11.17-21.31.33:674][287]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/StartupMap_BuiltData84B470F84106153AA37EECB492DC3E56.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset'
+[2018.11.17-21.31.34:833][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Metal_1" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Metal_1.uasset" SILENT=true
+[2018.11.17-21.31.34:840][348]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Metal_197529F754DD317A8B6ED758E8CDEB08C.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Metal_1.uasset'
+[2018.11.17-21.31.45:287][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/floor" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/floor.uasset" SILENT=true
+[2018.11.17-21.31.45:426][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/floor7C01362148271BF96801D69D3C76B9B7.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/floor.uasset'
+[2018.11.17-21.31.45:431][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/floor_Mat" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/floor_Mat.uasset" SILENT=true
+[2018.11.17-21.31.45:441][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/floor_MatC1591D0D461256C0BBF62986C777FA4E.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/floor_Mat.uasset'
+[2018.11.17-21.31.45:448][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Laque" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Laque.uasset" SILENT=true
+[2018.11.17-21.31.45:457][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Laque526770E94FE4D60CB7A396A89C2B240E.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Laque.uasset'
+[2018.11.17-21.31.45:465][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Metal_3" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Metal_3.uasset" SILENT=true
+[2018.11.17-21.31.45:471][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Metal_30A3D9E60456A5A38ECF7F78D783034B2.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Metal_3.uasset'
+[2018.11.17-21.31.45:479][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Feutre" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Feutre.uasset" SILENT=true
+[2018.11.17-21.31.45:484][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Feutre241C11294DC6A2A6778D30AA5B44CEE6.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Feutre.uasset'
+[2018.11.17-21.31.45:492][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Material_012" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Material_012.uasset" SILENT=true
+[2018.11.17-21.31.45:499][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Material_012736AABDF42001BA6E71DB88BF24EBBA6.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Material_012.uasset'
+[2018.11.17-21.31.45:506][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Feutre_2" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Feutre_2.uasset" SILENT=true
+[2018.11.17-21.31.45:512][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Feutre_2058844314056F9C21FDAAA97A5EDADF6.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Feutre_2.uasset'
+[2018.11.17-21.31.45:519][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Cordes_basses" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Cordes_basses.uasset" SILENT=true
+[2018.11.17-21.31.45:525][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Cordes_basses5907D100479B0685A8D342800A88833B.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Cordes_basses.uasset'
+[2018.11.17-21.31.45:531][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Bois" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Bois.uasset" SILENT=true
+[2018.11.17-21.31.45:537][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Bois02B8A93644DFC20398899FBF09286C77.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Bois.uasset'
+[2018.11.17-21.31.45:544][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Bois_2" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Bois_2.uasset" SILENT=true
+[2018.11.17-21.31.45:549][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Bois_2C76CBFE14B5B4DD31557AA9D7A43FBD0.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Bois_2.uasset'
+[2018.11.17-21.31.45:555][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/violindiffusemap" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/violindiffusemap.uasset" SILENT=true
+[2018.11.17-21.31.46:304][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/violindiffusemap5111626E45C7DADCB0E49681D8ABA65F.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/violindiffusemap.uasset'
+[2018.11.17-21.31.46:312][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Violin" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Violin.uasset" SILENT=true
+[2018.11.17-21.31.46:324][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Violin9465F25649809D81B4E0E992EEF71F99.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Violin.uasset'
+[2018.11.17-21.31.46:332][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Touches_noires" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Touches_noires.uasset" SILENT=true
+[2018.11.17-21.31.46:340][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Touches_noires6DC862A545F2013BB8E1DB9038A4C995.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Touches_noires.uasset'
+[2018.11.17-21.31.46:348][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Touches_blanches" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Touches_blanches.uasset" SILENT=true
+[2018.11.17-21.31.46:355][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Touches_blanchesCB95438147A0F021A8355386E35F59A9.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Touches_blanches.uasset'
+[2018.11.17-21.31.46:363][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Platine" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Platine.uasset" SILENT=true
+[2018.11.17-21.31.46:370][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/Platine773895FC4D6F6D46D731D4BCDC29C0E8.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/Platine.uasset'
+[2018.11.17-21.31.53:318][964]LogSlate: Window 'Message' being destroyed
+[2018.11.17-21.31.53:326][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/piano" FILE="../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/piano.uasset" SILENT=true
+[2018.11.17-21.31.53:360][964]LogSavePackage: Moving '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Saved/pianoEB70E44E4F8DDA7B7E627189A68F4F5E.tmp' to '../../../../../../Users/Theo/Desktop/Unreal Projects/VR_Anxiety/Content/Geometry/Meshes/piano.uasset'
+[2018.11.17-21.31.53:368][964]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Geometry/Meshes/None
+[2018.11.17-21.32.00:593][964]LogSlate: Window 'Writable Assets Not Checked Out' being destroyed
