@@ -1,6 +1,6 @@
 # VR-Anxiety
 
-Pull this repo, then open UE4. File > Open project > Browse > open .uproject file from this repo
+Pull this repo, then open UE4: File > Open project > Browse > open .uproject file from this repo
 
 To see Anxiety Inducing Humans, download MakeHuman application from here: http://download.tuxfamily.org/makehuman/releases/1.1.1/makehuman-1.1.1-win32.zip
 
