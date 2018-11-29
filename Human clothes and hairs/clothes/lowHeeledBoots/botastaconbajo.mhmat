@@ -1,0 +1,25 @@
+# MakeHuman Material definition
+
+name totas_tacon_bajoMaterial
+
+// Color shading attributes
+diffuseColor  0.0999 0.0999 0.1301
+specularColor  0 0 0
+shininess 0.06667
+opacity 1
+
+// Textures and properties
+diffuseTexture botas_tacon_bajo.png
+normalmapTexture botas_tacon_bajo_nrml.png
+normalmapIntensity 1.0
+
+// Shader programme
+shader data/shaders/glsl/phong
+
+// Configure built-in shader defines
+shaderConfig diffuse true
+shaderConfig bump false
+shaderConfig normal  true
+shaderConfig displacement  false
+shaderConfig spec  false
+shaderConfig vertexColors false

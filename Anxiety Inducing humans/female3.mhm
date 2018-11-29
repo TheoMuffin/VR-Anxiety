@@ -1,7 +1,7 @@
 # Written by MakeHuman 1.1.1
 version v1.1.1
 tags female3
-camera 3.0 4.5 0.467292561275 0.824302882613 0.212851715635 1.0
+camera 7.0 0.5 0.467292561275 0.824302882613 0.212851715635 1.0
 modifier torso/torso-vshape-decr|incr 0.074970
 modifier armslegs/l-hand-fingers-length-decr|incr 0.067259
 modifier nose/nose-flaring-decr|incr 0.201125
@@ -37,7 +37,7 @@ modifier armslegs/r-leg-valgus-decr|incr 0.099755
 modifier cheek/r-cheek-trans-down|up 0.003490
 modifier neck/neck-trans-down|up -0.184237
 modifier hip/hip-scale-depth-decr|incr -0.576000
-modifier macrodetails-proportions/BodyProportions 0.944000
+modifier macrodetails-proportions/BodyProportions 0.073000
 modifier chin/chin-width-decr|incr 0.182621
 modifier ears/r-ear-flap-decr|incr 0.368966
 modifier mouth/mouth-laugh-lines-in|out -0.282824
@@ -161,7 +161,7 @@ modifier eyes/r-eye-height3-decr|incr 0.127420
 modifier head/head-triangular 0.035464
 modifier armslegs/r-lowerleg-scale-depth-decr|incr 0.259529
 modifier head/head-square 0.115553
-modifier armslegs/l-upperarm-scale-depth-decr|incr -0.084131
+modifier armslegs/l-upperarm-scale-depth-decr|incr 0.072000
 modifier ears/l-ear-scale-vert-decr|incr -0.036108
 modifier eyes/r-eye-bag-in|out 0.143070
 modifier mouth/mouth-upperlip-volume-decr|incr 0.286342
@@ -190,7 +190,7 @@ modifier nose/nose-compression-compress|uncompress -0.124302
 modifier armslegs/r-lowerleg-muscle-decr|incr 0.451596
 modifier head/head-rectangular 0.164850
 modifier armslegs/r-upperleg-scale-vert-decr|incr -0.052996
-modifier armslegs/r-upperarm-scale-depth-decr|incr -0.103942
+modifier armslegs/r-upperarm-scale-depth-decr|incr -0.084000
 modifier mouth/mouth-cupidsbow-decr|incr -0.086415
 modifier hip/hip-trans-down|up -0.034935
 modifier eyes/r-eye-push1-in|out -0.061394
@@ -256,8 +256,9 @@ skeleton game_engine.mhskel
 eyebrows eyebrow002 a4e73c2f-3a12-47c8-b706-31a68cac6907
 eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
 pose tpose.bvh
-clothes female_elegantsuit01 8bb26477-c09f-4439-b05f-961516acf662
-clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
+clothes Sleeveless d81d2cec-7bf3-4247-92dc-185aa64e4941
+clothes Tightjeans 2eb68cfa-7624-481c-a3e4-ba0695fd1dd2
+clothes BotasTaconBajo 4df3da35-3f5b-4452-9794-188266fc9818
 clothesHideFaces True
 expression determination01.mhpose
 skinMaterial skins/old_asian_male/old_asian_male.mhmat
