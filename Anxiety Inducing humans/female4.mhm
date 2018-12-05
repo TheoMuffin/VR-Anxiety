@@ -1,7 +1,7 @@
 # Written by MakeHuman 1.1.1
 version v1.1.1
 tags female4
-camera 7.5 0.5 0.0 0.0 0.0 1.1625
+camera 17.0 4.5 0.0 0.0 0.0 1.1625
 modifier breast/breast-trans-down|up 0.296000
 modifier macrodetails-universal/Muscle 0.000000
 modifier macrodetails/African 0.961000
@@ -27,7 +27,7 @@ hair o4saken_long01 1d8535a9-e177-4e9d-b93d-5491841cc39e
 eyelashes eyelashes04 efd75993-8de1-43fb-b410-adc203091d25
 skeleton game_engine.mhskel
 eyebrows eyebrow006 bb953a1a-db43-44db-a0ad-ed8a5d6000c9
-eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
 pose tpose.bvh
 clothes Sleeveless d81d2cec-7bf3-4247-92dc-185aa64e4941
 clothes M_Trousers_02 2ffb06f9-e71b-435e-838d-29411372cb6d
@@ -35,5 +35,5 @@ clothes Flats_ballet 6d183530-92c7-4963-9e83-aedbcce349d0
 clothesHideFaces True
 skinMaterial skins/young_african_female/young_african_female.mhmat
 material o4saken_long01 1d8535a9-e177-4e9d-b93d-5491841cc39e o4saken_long01.mhmat
-material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
 subdivide False
