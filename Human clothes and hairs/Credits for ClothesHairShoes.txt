@@ -1,0 +1,125 @@
+Clothes
+1. camisoleTop
+http://www.makehumancommunity.org/clothes/camisole_top.html
+
+2. stripedShirt
+http://www.makehumancommunity.org/clothes/striped_shirt.html
+
+3. knittedSweater1
+http://www.makehumancommunity.org/clothes/knitted_sweater_01.html
+
+4. knittedSweater2
+http://www.makehumancommunity.org/clothes/knitted_sweater_02.html
+
+5. top
+http://www.makehumancommunity.org/clothes/vanherpenliketop.html
+
+6. top2
+http://www.makehumancommunity.org/clothes/vanherpenliketop2.html
+
+7. menShirt
+http://www.makehumancommunity.org/clothes/harvey_lucifersshirtv2.html
+
+8. tankTop
+http://www.makehumancommunity.org/clothes/tank_top_01.html
+
+9. femaleTunic
+http://www.makehumancommunity.org/clothes/asymmetric_tunic_and_sash.html
+
+10. femaleCamoShirt
+http://www.makehumancommunity.org/clothes/shorttail_camo_tee.html
+
+11. femaleSleevlessWhiteShirt
+http://www.makehumancommunity.org/clothes/sleeveless_shirt.html
+
+12. femaleVneckWhiteTop
+http://www.makehumancommunity.org/clothes/v_neck_top.html
+
+13. menJeans
+http://www.makehumancommunity.org/clothes/male_classic_jeans.html
+
+14. femaleHaremPants
+http://www.makehumancommunity.org/clothes/genie_one.html
+
+15. menTrousers
+http://www.makehumancommunity.org/clothes/m_trousers_01.html
+
+16. femaleTrousers
+http://www.makehumancommunity.org/clothes/f_trousers_01.html
+
+17. femaleSkinnyJeans
+http://www.makehumancommunity.org/clothes/tight_jeans_female.html
+
+18. femaleLeggings
+http://www.makehumancommunity.org/clothes/costume_leggings.html
+
+19. woolPants
+http://www.makehumancommunity.org/clothes/wool_pants.html
+
+20. menTrousers2
+http://www.makehumancommunity.org/clothes/m_trousers_02.html
+
+21. femaleShirt
+http://www.makehumancommunity.org/clothes/crude_female_tshirt.html
+
+
+Hair
+
+22. longMaxCurly
+http://www.makehumancommunity.org/clothes/o4saken_curly01.html
+
+23. mediumShortBack
+http://www.makehumancommunity.org/clothes/o4saken_chinesebob01.html
+
+24. shortMaxShortSide
+http://www.makehumancommunity.org/clothes/elvs_f_short_sidedo1.html
+
+25. menShortRed
+http://www.makehumancommunity.org/clothes/elvs_maxwell_hair.html
+
+26. bloneBun
+http://www.makehumancommunity.org/clothes/wig_bun_blonde_female_braids.html
+
+27. mediumBowRed
+http://www.makehumancommunity.org/clothes/wig_female_bow_tie.html
+
+28. shortBlondeBand
+http://www.makehumancommunity.org/clothes/blondwithheadband.html
+
+29. mediumBlack
+http://www.makehumancommunity.org/clothes/junglebookhair.html
+
+30. menShort
+http://www.makehumancommunity.org/clothes/male_short_hair.html
+
+31. mediumWavyBlack
+http://www.makehumancommunity.org/clothes/hairstyle_curly_2_alpha_7_adaptation.html
+
+32. mediumCurlyBlack
+http://www.makehumancommunity.org/clothes/hairstyle_curly_alpha_7_adaptation.html
+
+33. logMaxMessy
+http://www.makehumancommunity.org/clothes/o4saken_long01.html
+
+34. shortMaxCurly
+http://www.makehumancommunity.org/clothes/elvs_wavy_bob1.html
+
+Shoes (go under the clothes folder in the MakeHuman program)
+
+35. FemaleBlackFlats
+http://www.makehumancommunity.org/clothes/ballet_flats.html
+
+36. femaleFlatsStones
+http://www.makehumancommunity.org/clothes/elvs_flatshoe_gemmed1.html
+
+37. femaleBlackRoseShoes
+http://www.makehumancommunity.org/clothes/mj_cloth_shoes.html
+
+38. femaleRedHeels
+http://www.makehumancommunity.org/clothes/stiletto_booties.html
+
+39. femaleBlackGeometricHeels
+http://www.makehumancommunity.org/clothes/elvs_dirty_lil_maid_shoes1.html
+
+40. lowHeeledBoots
+http://www.makehumancommunity.org/clothes/lowheeled_boots.html

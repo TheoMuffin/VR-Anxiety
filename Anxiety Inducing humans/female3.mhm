@@ -1,7 +1,7 @@
 # Written by MakeHuman 1.1.1
 version v1.1.1
 tags female3
-camera 7.0 0.5 0.467292561275 0.824302882613 0.212851715635 1.0
+camera 7.0 0.5 0.467292561275 0.824302882613 0.212851715635 1.65
 modifier torso/torso-vshape-decr|incr 0.074970
 modifier armslegs/l-hand-fingers-length-decr|incr 0.067259
 modifier nose/nose-flaring-decr|incr 0.201125
@@ -247,21 +247,19 @@ modifier mouth/mouth-lowerlip-volume-decr|incr -0.380087
 modifier armslegs/l-upperleg-scale-depth-decr|incr 0.141776
 modifier ears/r-ear-lobe-decr|incr -0.163152
 modifier hip/hip-waist-down|up 0.194112
-tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
-teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
 proxy female_muscle_13442 20a78cb1-52c2-4bf5-87c7-96e2638b0135
 hair afro01 59627022-32e9-4126-9cf1-036d4b9335fc
 eyelashes eyelashes04 efd75993-8de1-43fb-b410-adc203091d25
 skeleton game_engine.mhskel
 eyebrows eyebrow002 a4e73c2f-3a12-47c8-b706-31a68cac6907
-eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
 pose tpose.bvh
 clothes Sleeveless d81d2cec-7bf3-4247-92dc-185aa64e4941
 clothes Tightjeans 2eb68cfa-7624-481c-a3e4-ba0695fd1dd2
 clothes BotasTaconBajo 4df3da35-3f5b-4452-9794-188266fc9818
 clothesHideFaces True
-expression determination01.mhpose
+expression smile02.mhpose
 skinMaterial skins/old_asian_male/old_asian_male.mhmat
 material afro01 59627022-32e9-4126-9cf1-036d4b9335fc afro01.mhmat
-material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/deepblue.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
 subdivide False

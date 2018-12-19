@@ -21,19 +21,18 @@ modifier breast/nipple-size-decr|incr 0.062000
 modifier breast/breast-dist-decr|incr -0.162000
 modifier macrodetails-universal/Weight 0.302000
 modifier breast/breast-volume-vert-down|up 0.654000
-tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
-teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
 hair o4saken_long01 1d8535a9-e177-4e9d-b93d-5491841cc39e
 eyelashes eyelashes04 efd75993-8de1-43fb-b410-adc203091d25
 skeleton game_engine.mhskel
 eyebrows eyebrow006 bb953a1a-db43-44db-a0ad-ed8a5d6000c9
-eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
 pose tpose.bvh
 clothes Sleeveless d81d2cec-7bf3-4247-92dc-185aa64e4941
 clothes M_Trousers_02 2ffb06f9-e71b-435e-838d-29411372cb6d
 clothes Flats_ballet 6d183530-92c7-4963-9e83-aedbcce349d0
 clothesHideFaces True
+expression doubt01.mhpose
 skinMaterial skins/young_african_female/young_african_female.mhmat
 material o4saken_long01 1d8535a9-e177-4e9d-b93d-5491841cc39e o4saken_long01.mhmat
-material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
 subdivide False

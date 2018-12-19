@@ -1,0 +1,14 @@
+How to import humans:
+To project:
+Drag and drop human in the VR project.
+
+To modify the humans:
+Drag and drop the mhm file in the MakeHuman program. Search in various tabs what you want to change (skin color, finger length, hair, eyes, add a tongue, facial expression)
+
+How to import clothes/hair:
+Open the 'Human clothes and hairs' folder. Copy the clothes/hair folder into MakeHuman program under data/. Replace the old folders.
+
+To import new clothes/hair/eyes/poses/skins...etc:
+Go to the page http://www.makehumancommunity.org/content/user_contributed_assets.html
+Select the category you want to browse.
+Select the file(s) and choose 'save link as .. ' and save the link into the clothes/hair/eyes/poses/skins...etc folder

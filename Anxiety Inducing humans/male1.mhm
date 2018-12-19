@@ -26,7 +26,7 @@ hair short01 766436e9-63ed-4f6a-afa9-99f3acff70a8
 eyelashes eyelashes02 04a0718e-aaa4-4480-a013-ad51703bef6b
 skeleton game_engine.mhskel
 eyebrows eyebrow012 1c16325c-7831-4166-831a-05c5b609c219
-eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
 pose tpose.bvh
 clothes male_elegantsuit01 1d2e3843-dda5-40a8-84a0-96666aa681bb
 clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
@@ -34,5 +34,5 @@ clothesHideFaces True
 expression determination01.mhpose
 skinMaterial skins/default.mhmat
 material short01 766436e9-63ed-4f6a-afa9-99f3acff70a8 short01.mhmat
-material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brownlight.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
 subdivide False

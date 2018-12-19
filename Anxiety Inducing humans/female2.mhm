@@ -24,13 +24,11 @@ modifier macrodetails/Caucasian 0.422114
 modifier torso/torso-scale-depth-decr|incr -0.264000
 modifier torso/torso-trans-in|out -0.044000
 modifier macrodetails-universal/Weight 0.676000
-tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
-teeth Teeth_Shape05 c6096ff1-46b6-4fdf-b992-49c1bc67f18b
 hair short03 a6cb8ad2-2e0d-4655-81ef-bfce1676ec67
 eyelashes eyelashes03 a311babf-a7fb-4d65-a1fc-94ab99fe520f
-skeleton cmu_mb.mhskel
+skeleton game_engine.mhskel
 eyebrows eyebrow003 4089e4e3-b842-40f4-91a4-0686118f7535
-eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
 pose tpose.bvh
 clothes male_casualsuit03 39864dca-8d5c-4d7c-84ce-c00982e93cb7
 clothes shoes04 0d753f2e-55f9-4d60-9a78-261f42b494fc
@@ -38,5 +36,5 @@ clothesHideFaces True
 expression sad02.mhpose
 skinMaterial skins/middleage_caucasian_female/middleage_caucasian_female.mhmat
 material short03 a6cb8ad2-2e0d-4655-81ef-bfce1676ec67 short03.mhmat
-material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brownlight.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
 subdivide False
