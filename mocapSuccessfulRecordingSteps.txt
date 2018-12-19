@@ -1,0 +1,12 @@
+﻿For troubleshooting free experience in recording motion with mocap solution:
+1.Start SteamVR
+2.Start UE4 and open project
+3.Run VR preview
+4. Start controllers one at a time
+5. Start trackers one at a time
+6. Touchpad on controller to set tracking location for body parts
+7. Button above touchpad to start recording
+After recording is done, go to Content:Cinematics:Sequences:Animation:Right click recording:Asset Actions:export 
+
+When importing MakeHuman model, Select Skeleton as None! This will preserve the models own skeleton.
+Then go to Content:Animation and import animation that you exported. Select Skeleton of the appropriate MakeHuman model
